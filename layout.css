@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(46, 22, 118);
+}
+
+h3 {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white
+}
+
+header {
+    background-color: rgb(9, 36, 155);
+    padding: 15px;
+    font-size: 20px;
+}
+
+p.simple {
+    border-style: solid;
+    border-color: rgb(121, 133, 139);
+    border-radius: 4px;
+    padding: 1px;
+    position: relative;
+    left: 50%;
+    width: 30%;
+    font-size: large;
+    color: white;
+}
+
+p.bottom {
+    text-align: right;
+    vertical-align: bottom;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: beige;
+    padding: 30px;
+    font-size: 35px;
+}
+
+div.simple2 {
+    position: relative;
+    text-align: right;
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: gray;
+}
+
+img.profile {
+    display: block;
+    margin-left: 15%;
+}
+
+a.border2 {
+    border-style: solid;
+    border-color: rgb(121, 133, 139);
+    border-radius: 4px;
+    padding: 1px;
+}
+
+h2.overline {
+    text-decoration: overline;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p.chair {
+    color: white;
+    border-style: solid;
+    border-color: rgb(121, 133, 139);
+    border-radius: 4px;
+    padding: 1px;
+    width: 30%;
+    position: relative;
+    left: 35%;
+}
+
+img.move {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
