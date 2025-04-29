@@ -89,6 +89,7 @@ p.chair {
     width: 30%;
     position: relative;
     left: 35%;
+    font-size: larger;
 }
 
 img.move {
